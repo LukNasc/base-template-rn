@@ -10,7 +10,7 @@ Template básico para criação de projeto com React Native para o grupo de dese
  ### A Template adiciona alguns diretórios e arquivos  
            └── src  
                ├── pages  
-               |    ├── Main  
+               |    └── Main  
                |         ├── index.js  
                |         └── styles.js  
                |
