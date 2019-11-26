@@ -33,6 +33,6 @@ Você pode inicar o projeto modificando o arquivo da no caminho <b>./src/pages/M
 
 
  ### LICENSE
-  [MIT](http://licence.com)
+  [MIT](https://github.com/LukNasc/base-template-rn/blob/master/License)
   
 #### Lucas Nascimento  
